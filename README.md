@@ -7,3 +7,4 @@ ASSIGNMENT6 https://github.com/2203A51754/AIML2024/blob/main/Assignment6.ipynb
 ASSIGNMENT7 https://github.com/2203A51754/AIML2024/blob/main/Assignment7.ipynb       
 ASSIGNMENT8 https://github.com/2203A51754/AIML2024/blob/main/Assignment8.ipynb    
 ASSIGNMENT9 https://github.com/2203A51754/AIML2024/blob/main/assignment_9.ipynb    
+ASSIGNMENT10 https://github.com/2203A51754/AIML2024/blob/main/Assignment10.ipynb
